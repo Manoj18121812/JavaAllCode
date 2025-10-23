@@ -6,7 +6,7 @@ public class AddTwoMatrix {
 
 	public static void main(String[] args) {
 		
-		 int m, n, i, j; 
+		 int m, n, i, j;  
 	      Scanner sc = new Scanner(System.in); 
 	  
 	      System.out.println("Enter the number of rows and columns of matrix"); 
