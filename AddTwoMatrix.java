@@ -12,7 +12,7 @@ public class AddTwoMatrix {
 	      System.out.println("Enter the number of rows and columns of matrix"); 
 	      m = sc.nextInt(); 
 	      n  = sc.nextInt(); 
-	  
+	    
 	      int first[][] = new int[m][n]; 
 	      int second[][] = new int[m][n]; 
 	      int sum[][] = new int[m][n]; 
